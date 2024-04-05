@@ -1,0 +1,21 @@
+{
+  "name": "fashionmate-backend",
+  "version": "1.0.0",
+  "description": "FashionMate Backend",
+  "scripts": {
+    "test": "nodemon --exec babel-node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.13.0",
+    "graphql": "^16.8.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.24.4",
+    "@babel/node": "^7.23.9",
+    "@babel/preset-env": "^7.24.4",
+    "nodemon": "^3.1.0"
+  }
+}
