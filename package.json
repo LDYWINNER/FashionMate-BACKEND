@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "FashionMate Backend",
   "scripts": {
-    "test": "nodemon --exec babel-node server.js"
+    "dev": "nodemon --exec babel-node server"
   },
   "keywords": [],
   "author": "",
